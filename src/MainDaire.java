@@ -4,12 +4,7 @@ public class MainDaire {
 
         CemberDaire c1 = new CemberDaire();
         c1.alanBul();
-
-
-
-
-
-
+        c1.cevreBul();
 
 
     }

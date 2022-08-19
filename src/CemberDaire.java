@@ -16,7 +16,13 @@ public class CemberDaire {
 
     public void alanBul() {
         double alan = Math.PI * Math.pow(yaricap, 2);
-        System.out.println("Dairenizin alanı: " + alan);
+        System.out.println("Çemberinizin alanı: " + alan);
+
+    }
+
+    public void cevreBul() {
+        double cevre = 2 * Math.PI * yaricap;
+        System.out.println("Çemberinizin çevresi " + cevre);
 
     }
 
