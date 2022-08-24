@@ -13,7 +13,8 @@ public class ArabaUretimi {
         Araba berkAraba = new Araba(teker1,teker2,motor);
         System.out.println(berkAraba.getOnTeker().getLastik().getMarka());
 
-        lastik.g
+
+
 
 
     }
