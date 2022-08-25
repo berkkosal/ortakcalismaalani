@@ -20,7 +20,7 @@ class Personel extends Kisi {
 
     @Override
     public String toString() {
-        return "Personel adı: " + getIsim() + " TcKimlik : " + getTcKimlik() + " Yaş: " + getYas() + " Okul No: " +;
+        return "Personel adı: " + getIsim() + " TcKimlik : " + getTcKimlik() + " Yaş: " + getYas() + " pozisyon " + getPozisyon();
     }
 
 
